@@ -5,3 +5,5 @@ Phonex is a phonetic algorithm used for indexing words by their pronunciation. M
 
 For more iformation about the algorithm please visit : http://info.univ-lemans.fr/~carlier/recherche/soundex.html
 
+Algorithme Phonex
+Copyright Frédéric BROUARD (31/3/99)
